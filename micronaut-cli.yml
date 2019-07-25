@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: build.self.signed
+---
+testFramework: junit
+sourceLanguage: java
